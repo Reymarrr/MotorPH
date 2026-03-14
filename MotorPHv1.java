@@ -4,7 +4,7 @@ import java.time.LocalTime;
 import java.time.format.DateTimeFormatter;
 import java.util.Scanner;
 
-public class MotorPH {
+public class MotorPHv1                                                                                               {
     //----------File Paths---------------
     static final String EMPLOYEE_FILE = "Employee Details.csv";
     static final String ATTENDANCE_FILE = "Attendance Record.csv";
